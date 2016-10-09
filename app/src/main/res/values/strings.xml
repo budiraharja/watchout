@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Watchout</string>
+    <string name="candid_info_show">Don\'t show it next time</string>
+    <string name="candid_info_btn_ok">Close</string>
+    <string name="candid_setting">Settings</string>
+    <string name="candid_close">Close</string>
+    <string name="candid_setting_preview_size">Frame Size</string>
+    <string name="candid_setting_capture_path">Captured Image Path</string>
+    <string name="candid_setting_silent_mode">Silent Capture</string>
+    <string name="candid_setting_initial_zoom">Zoom</string>
+    <string name="candid_setting_zoom_shortcut">Display Zoom Shortcut</string>
+    <string name="candid_setting_zoom_shortcut_show">Show</string>
+    <string name="candid_setting_zoom_shortcut_hide">Hide</string>
+    <string name="candid_setting_menu_info">Help</string>
+    <string name="candid_setting_menu_rate">Rate &amp; Comment</string>
+    <string name="candid_setting_group_header_general">Settings</string>
+    <string name="candid_setting_group_header_control">Control</string>
+    <string name="candid_setting_group_header_about">About</string>
+    <string name="candid_camera_preview_error">Whoops, unable to start camera preview</string>
+    <string name="candid_service_running">Watchout already started</string>
+    <string name="candid_zoom_not_supported">Zoom not supported</string>
+
+</resources>

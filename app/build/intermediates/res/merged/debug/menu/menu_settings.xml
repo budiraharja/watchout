@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item android:title="@string/candid_setting_menu_info" android:id="@+id/watchout_setting_menu_info"  />    
+	<item android:title="@string/candid_setting_menu_rate" android:id="@+id/watchout_setting_menu_rate"  />
+</menu>

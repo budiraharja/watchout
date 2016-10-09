@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/candid_setting_background_color"
+    android:orientation="vertical" >
+    
+    <Button
+        android:id="@+id/bt_watchout_ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/selector_button"
+        android:layout_margin="@dimen/layout_padding"
+        android:padding="@dimen/layout_padding"
+        android:text="@string/candid_info_btn_ok"
+        android:textSize="@dimen/layout_text_size" />
+    
+    <CheckBox
+        android:id="@+id/cb_watchout_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bt_watchout_ok"
+        android:checked="false"
+        android:layout_margin="@dimen/layout_padding"
+        android:text="@string/candid_info_show"
+        android:textColor="@color/candid_setting_text_color"
+        android:textSize="@dimen/layout_text_size" />
+
+    <WebView
+        android:id="@+id/wv_watchout_info"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/cb_watchout_info"
+        android:background="@android:color/transparent"
+        android:padding="@dimen/layout_padding"
+        android:textColor="@color/candid_setting_text_color"
+        android:textSize="@dimen/layout_text_size" />
+
+</RelativeLayout>

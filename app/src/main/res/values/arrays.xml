@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gs_setting_control">
+        <item>Zoom Shortcut</item>
+        <item>Single Tap Action</item>
+        <item>Double Tap Action</item>
+        <item>Long Press Action</item>
+        <item>Launcher</item>
+    </string-array>
+    
+    <string-array name="gs_setting_control_action">
+        <item>-</item>
+        <item>Capture</item>
+        <item>Settings</item>
+        <item>Zoom In</item>
+        <item>Zoom Out</item>
+        <item>Close Application</item>
+    </string-array>
+    
+    <string-array name="gs_setting_control_action_zoom_not_supported">
+        <item>-</item>
+        <item>Capture</item>
+        <item>Settings</item>
+        <item>Zoom In (not supported)</item>
+        <item>Zoom Out (not supported)</item>
+        <item>Close Application</item>
+    </string-array>
+    
+    <string-array name="gs_setting_control_launcher">
+        <item>-</item>
+        <item>Status Bar</item>
+        <item>Shake &amp; Status Bar</item>
+    </string-array>
+    
+    <string-array name="gs_setting_zoom_control">
+        <item>@string/candid_setting_zoom_shortcut_hide</item>
+        <item>@string/candid_setting_zoom_shortcut_show</item>
+    </string-array>
+    
+    <string-array name="gs_setting_about">
+        <item>Help</item>
+        <item>Rate &amp; Comment</item>
+        <item>Version 1.2.3</item>
+    </string-array>
+</resources>

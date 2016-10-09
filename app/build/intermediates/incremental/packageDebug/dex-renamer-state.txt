@@ -1,0 +1,7 @@
+#Sun Oct 09 20:18:12 ICT 2016
+base.0=D\:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_42dd3f8718dce62724dcf112fe1531652be57b56
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6d28e78e40556c0b4a6833fa6cf16b639c9f1a57\\classes.dex
+base.1=D\:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6d28e78e40556c0b4a6833fa6cf16b639c9f1a57
+file.0=D\:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_42dd3f8718dce62724dcf112fe1531652be57b56\\classes.dex

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gs_setting_about">
+        <item>Help</item>
+        <item>Rate &amp; Comment</item>
+        <item>Version 1.2.3</item>
+    </string-array>
+    <string-array name="gs_setting_control">
+        <item>Zoom Shortcut</item>
+        <item>Single Tap Action</item>
+        <item>Double Tap Action</item>
+        <item>Long Press Action</item>
+        <item>Launcher</item>
+    </string-array>
+    <string-array name="gs_setting_control_action">
+        <item>-</item>
+        <item>Capture</item>
+        <item>Settings</item>
+        <item>Zoom In</item>
+        <item>Zoom Out</item>
+        <item>Close Application</item>
+    </string-array>
+    <string-array name="gs_setting_control_action_zoom_not_supported">
+        <item>-</item>
+        <item>Capture</item>
+        <item>Settings</item>
+        <item>Zoom In (not supported)</item>
+        <item>Zoom Out (not supported)</item>
+        <item>Close Application</item>
+    </string-array>
+    <string-array name="gs_setting_control_launcher">
+        <item>-</item>
+        <item>Status Bar</item>
+        <item>Shake &amp; Status Bar</item>
+    </string-array>
+    <string-array name="gs_setting_zoom_control">
+        <item>@string/candid_setting_zoom_shortcut_hide</item>
+        <item>@string/candid_setting_zoom_shortcut_show</item>
+    </string-array>
+    <color name="candid_setting_background_color">#171717</color>
+    <color name="candid_setting_button_color">#E7E7E7</color>
+    <color name="candid_setting_button_color_focus">#A7A7A7</color>
+    <color name="candid_setting_edittext_background_color">#4B4B4B</color>
+    <color name="candid_setting_edittext_border_color">#E6E6E6</color>
+    <color name="candid_setting_edittext_border_color_focus">#9F9F9F</color>
+    <color name="candid_setting_edittext_color">#666666</color>
+    <color name="candid_setting_group_header_background_color">#272727</color>
+    <color name="candid_setting_text_color">#E7E7E7</color>
+    <color name="candid_text_close_color">#e50303</color>
+    <color name="candid_text_setting_color">#037eda</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="layout_padding">5dp</dimen>
+    <dimen name="layout_padding_seekbar_left_right">18dp</dimen>
+    <dimen name="layout_setting_group_header_margin_top">10dp</dimen>
+    <dimen name="layout_setting_group_header_padding">5dp</dimen>
+    <dimen name="layout_setting_item_margin_bottom">5dp</dimen>
+    <dimen name="layout_setting_item_padding">10dp</dimen>
+    <dimen name="layout_setting_preview_margin_bottom">10dp</dimen>
+    <dimen name="layout_setting_preview_margin_top">10dp</dimen>
+    <dimen name="layout_text_size">18dp</dimen>
+    <dimen name="layout_text_sub_size">15dp</dimen>
+    <string name="app_name">Watchout</string>
+    <string name="candid_camera_preview_error">Whoops, unable to start camera preview</string>
+    <string name="candid_close">Close</string>
+    <string name="candid_info_btn_ok">Close</string>
+    <string name="candid_info_show">Don\'t show it next time</string>
+    <string name="candid_service_running">Watchout already started</string>
+    <string name="candid_setting">Settings</string>
+    <string name="candid_setting_capture_path">Captured Image Path</string>
+    <string name="candid_setting_group_header_about">About</string>
+    <string name="candid_setting_group_header_control">Control</string>
+    <string name="candid_setting_group_header_general">Settings</string>
+    <string name="candid_setting_initial_zoom">Zoom</string>
+    <string name="candid_setting_menu_info">Help</string>
+    <string name="candid_setting_menu_rate">Rate &amp; Comment</string>
+    <string name="candid_setting_preview_size">Frame Size</string>
+    <string name="candid_setting_silent_mode">Silent Capture</string>
+    <string name="candid_setting_zoom_shortcut">Display Zoom Shortcut</string>
+    <string name="candid_setting_zoom_shortcut_hide">Hide</string>
+    <string name="candid_setting_zoom_shortcut_show">Show</string>
+    <string name="candid_zoom_not_supported">Zoom not supported</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

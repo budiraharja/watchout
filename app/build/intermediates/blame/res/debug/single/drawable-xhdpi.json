@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\candid_zoom_out.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\candid_zoom_out.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\candid_setting_focus.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\candid_setting_focus.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gs_edittext_focus.9.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\gs_edittext_focus.9.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\candid_close_focus.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\candid_close_focus.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\candid_setting.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\candid_setting.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\candid_zoom_in.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\candid_zoom_in.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gs_edittext_disabled.9.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\gs_edittext_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gs_seekbar_background.9.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\gs_seekbar_background.9.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gs_edittext.9.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\gs_edittext.9.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gs_seekbar_thumb.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\gs_seekbar_thumb.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gs_seekbar_progress.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\gs_seekbar_progress.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\candid_zoom_out_focus.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\candid_zoom_out_focus.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\close_focus.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\close_focus.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\candid_zoom_in_focus.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\candid_zoom_in_focus.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\candid_close.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\candid_close.png"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\close.png",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable-xhdpi\\close.png"
+    }
+]

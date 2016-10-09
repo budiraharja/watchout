@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_info.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_display.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\layout\\layout_display.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_setting_item.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\layout\\layout_setting_item.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_setting.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\layout\\layout_setting.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_zoom_in.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\layout\\layout_zoom_in.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_zoom_out.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\layout\\layout_zoom_out.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_close.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\layout\\layout_close.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_toast.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\layout\\layout_toast.xml"
+    }
+]

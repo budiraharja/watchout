@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical" >
+
+    <View
+        android:id="@+id/vw_close_icon"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/selector_view_close"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/tv_close_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:fontFamily="sans-serif"
+        android:gravity="center_horizontal"
+        android:text="@string/candid_setting"
+        android:textColor="@color/candid_text_close_color"
+        android:textSize="@dimen/layout_text_size"
+        android:visibility="gone" />
+
+</RelativeLayout>

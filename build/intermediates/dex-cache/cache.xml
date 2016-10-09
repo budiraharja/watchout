@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Data\Blegos\Android\Watchout\Source\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26f26e5b7a5b6913183ad8c280518d2407fc1dc9">
+        <dex dex="D:\Data\Blegos\Android\Watchout\Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_42dd3f8718dce62724dcf112fe1531652be57b56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Data\Blegos\Android\Watchout\Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_2205dc014a04cdd7fdcc3c6d3e2e8c6be689c2fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Data\Blegos\Android\Watchout\Source\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7343b2b3480eaebeb137d1de2ac962d56768ba63">
+        <dex dex="D:\Data\Blegos\Android\Watchout\Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6d28e78e40556c0b4a6833fa6cf16b639c9f1a57\classes.dex" />
+    </item>
+
+</items>

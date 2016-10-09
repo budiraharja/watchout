@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_view_close.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable\\selector_view_close.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_view_setting.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable\\selector_view_setting.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable\\selector_button.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_seekbar_progress.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable\\widget_seekbar_progress.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_edittext.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable\\selector_edittext.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_seekbar_progress_background.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable\\widget_seekbar_progress_background.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_view_display.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable\\selector_view_display.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_view_zoom_out.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable\\selector_view_zoom_out.xml"
+    },
+    {
+        "merged": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_view_zoom_in.xml",
+        "source": "D:\\Data\\Blegos\\Android\\Watchout\\Source\\app\\src\\main\\res\\drawable\\selector_view_zoom_in.xml"
+    }
+]

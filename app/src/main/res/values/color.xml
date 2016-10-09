@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="candid_text_setting_color" >#037eda</color>
+    <color name="candid_text_close_color" >#e50303</color>
+    <color name="candid_setting_background_color" >#171717</color>
+    <color name="candid_setting_edittext_background_color" >#4B4B4B</color>
+    <color name="candid_setting_edittext_border_color_focus" >#9F9F9F</color>
+    <color name="candid_setting_edittext_border_color" >#E6E6E6</color>
+    <color name="candid_setting_edittext_color" >#666666</color>
+    <color name="candid_setting_text_color" >#E7E7E7</color>
+    <color name="candid_setting_button_color" >#E7E7E7</color>
+    <color name="candid_setting_button_color_focus" >#A7A7A7</color>
+    <color name="candid_setting_group_header_background_color" >#272727</color>
+</resources>
